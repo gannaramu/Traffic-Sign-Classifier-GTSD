@@ -9,6 +9,7 @@ This dataset has more than 50,000 images of 43 classes.**
 
 **I was able to reach a +99% validation accuracy, and a 97.3% testing accuracy.**
 
+
 ## Basic Outline:
 - **Load The Data.**
 - **Dataset Summary & Exploration**
